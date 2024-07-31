@@ -1,6 +1,6 @@
-**My web templates**
-To ease my web dev life 
-Note: Just run this command "npm install" and then "npm run dev"
-This stack uses Vite+Alpinejs+Tailwind
+# Faisal's web template
 
-Enjoy ❤️
+Personal web templates for my favourite framework stack **Vite JS**, **Tailwind CSS** and **Alpine JS** 💜 💜 💜
+
+
+**Note:** Just run these commands ```npm install``` then ```npm run dev```
