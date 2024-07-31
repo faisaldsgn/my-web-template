@@ -4,3 +4,6 @@ Personal web templates for my favourite framework stack **Vite JS**, **Tailwind 
 
 
 **Note:** Just run these commands ```npm install``` then ```npm run dev```
+
+
+Enjoy ❤️
